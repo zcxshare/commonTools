@@ -1,0 +1,3 @@
+include ':common_tools'
+include ':app'
+rootProject.name = "commonUtils"
